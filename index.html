@@ -418,9 +418,8 @@
         font-size: clamp(6rem, 14vw, 14rem);
         font-weight: 900;
         line-height: 0.8;
-        color: transparent;
-        -webkit-text-stroke: 1px var(--primary-glow);
-        opacity: 0.5;
+        color: var(--primary);
+        opacity: 0.18;
         position: absolute;
         top: 40px;
         right: 24px;
@@ -455,13 +454,13 @@
       }
 
       .nav-logo {
-        height: 44px;
+        height: 88px;
         width: auto;
       }
 
       @media (max-width: 860px) {
         .nav-logo {
-          height: 36px;
+          height: 64px;
         }
       }
 
@@ -1591,13 +1590,101 @@
     </section>
 
     <!-- ============================================================
-         SERVICIOS
+         REELS
          ============================================================ -->
-    <section class="servicios" id="servicios">
+    <section class="reels" id="reels">
       <div class="section-num">01</div>
       <div class="container">
         <div class="section-head reveal">
-          <div class="eyebrow">01 · Catálogo</div>
+          <div class="eyebrow">01 · Proceso</div>
+          <h2>Nuestro trabajo <span class="accent">en acción</span></h2>
+          <p
+            style="
+              color: var(--muted-strong);
+              max-width: 640px;
+              margin-top: 14px;
+            "
+          >
+            Cada vehículo pasa por un protocolo técnico riguroso. Mira el
+            resultado real del proceso Detail Pro.
+          </p>
+        </div>
+
+        <div class="reels-grid">
+          <div class="reel-card reveal">
+            <div class="reel-video">
+              <video
+                src="reel-ceramic.mp4"
+                autoplay
+                loop
+                muted
+                playsinline
+                preload="metadata"
+              ></video>
+            </div>
+            <div class="reel-body">
+              <div class="reel-tag">Ceramic Coating</div>
+              <h3>Nanodiamante 3D</h3>
+              <p>
+                Recubrimiento cerámico de última generación. Protección extrema
+                y brillo permanente hasta 36 meses.
+              </p>
+            </div>
+          </div>
+
+          <div class="reel-card reveal">
+            <div class="reel-video">
+              <video
+                src="reel-proceso.mp4"
+                autoplay
+                loop
+                muted
+                playsinline
+                preload="metadata"
+              ></video>
+            </div>
+            <div class="reel-body">
+              <div class="reel-tag">Detailing</div>
+              <h3>Proceso completo</h3>
+              <p>
+                Descontaminación, pulido, sellado y acabado. Así devolvemos la
+                pintura a estado de concesionario.
+              </p>
+            </div>
+          </div>
+
+          <div class="reel-card reveal">
+            <div class="reel-video">
+              <video
+                src="reel-9.mp4"
+                autoplay
+                loop
+                muted
+                playsinline
+                preload="metadata"
+              ></video>
+            </div>
+            <div class="reel-body">
+              <div class="reel-tag">Resultado</div>
+              <h3>Before & After</h3>
+              <p>
+                El antes y después que define el estándar Detail Pro. Atención
+                al detalle en cada milímetro del vehículo.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         SERVICIOS
+         ============================================================ -->
+    <section class="servicios" id="servicios">
+      <div class="section-num">02</div>
+      <div class="container">
+        <div class="section-head reveal">
+          <div class="eyebrow">02 · Catálogo</div>
           <h2>Servicios <span class="accent">profesionales</span></h2>
           <p
             style="
@@ -1891,11 +1978,11 @@
          PLAN CORPORATIVO
          ============================================================ -->
     <section class="corporate" id="corporate">
-      <div class="section-num">02</div>
+      <div class="section-num">03</div>
       <div class="container">
         <div class="corp-intro reveal">
           <div>
-            <div class="eyebrow">02 · B2B</div>
+            <div class="eyebrow">03 · B2B</div>
             <h2>Plan <span class="accent">Corporativo</span></h2>
           </div>
           <p>
@@ -2173,94 +2260,6 @@
               </svg>
             </a>
           </article>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============================================================
-         REELS
-         ============================================================ -->
-    <section class="reels" id="reels">
-      <div class="section-num">03</div>
-      <div class="container">
-        <div class="section-head reveal">
-          <div class="eyebrow">03 · Proceso</div>
-          <h2>Nuestro trabajo <span class="accent">en acción</span></h2>
-          <p
-            style="
-              color: var(--muted-strong);
-              max-width: 640px;
-              margin-top: 14px;
-            "
-          >
-            Cada vehículo pasa por un protocolo técnico riguroso. Mira el
-            resultado real del proceso Detail Pro.
-          </p>
-        </div>
-
-        <div class="reels-grid">
-          <div class="reel-card reveal">
-            <div class="reel-video">
-              <video
-                src="reel-ceramic.mp4"
-                autoplay
-                loop
-                muted
-                playsinline
-                preload="metadata"
-              ></video>
-            </div>
-            <div class="reel-body">
-              <div class="reel-tag">Ceramic Coating</div>
-              <h3>Nanodiamante 3D</h3>
-              <p>
-                Recubrimiento cerámico de última generación. Protección extrema
-                y brillo permanente hasta 36 meses.
-              </p>
-            </div>
-          </div>
-
-          <div class="reel-card reveal">
-            <div class="reel-video">
-              <video
-                src="reel-proceso.mp4"
-                autoplay
-                loop
-                muted
-                playsinline
-                preload="metadata"
-              ></video>
-            </div>
-            <div class="reel-body">
-              <div class="reel-tag">Detailing</div>
-              <h3>Proceso completo</h3>
-              <p>
-                Descontaminación, pulido, sellado y acabado. Así devolvemos la
-                pintura a estado de concesionario.
-              </p>
-            </div>
-          </div>
-
-          <div class="reel-card reveal">
-            <div class="reel-video">
-              <video
-                src="reel-9.mp4"
-                autoplay
-                loop
-                muted
-                playsinline
-                preload="metadata"
-              ></video>
-            </div>
-            <div class="reel-body">
-              <div class="reel-tag">Resultado</div>
-              <h3>Before & After</h3>
-              <p>
-                El antes y después que define el estándar Detail Pro. Atención
-                al detalle en cada milímetro del vehículo.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </section>
