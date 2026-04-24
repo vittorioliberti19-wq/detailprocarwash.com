@@ -1,70 +1,28 @@
 # Detail Pro Car Wash
 
-> Autolavado y centro de detallado automotriz profesional en Maracaibo, Venezuela. Servicios para particulares y flotas empresariales.
+> Centro profesional de autolavado y detallado automotriz en Maracaibo, Venezuela. Servicios para particulares y plan corporativo para flotas empresariales. Especialistas en lavado, ceramic coating, pulido, polarizado e interior detailing.
 
-## Ubicación y contacto
+Detail Pro Car Wash atiende en Av. 5 de Julio con Av. 3F, Sótano CC Terraza 77, Maracaibo, Zulia. Horario: lunes a sábado, 8:00 AM – 6:00 PM. Contacto y reservas: +58 414-6733148 (WhatsApp).
 
-- Dirección: Av. 5 de Julio con Av. 3F, Sótano CC Terraza 77, Maracaibo, Zulia, Venezuela
-- Teléfono / WhatsApp: +58 414-6733148
-- Horario: Lunes a Sábado, 8:00 AM – 6:00 PM
-- Instagram: https://www.instagram.com/detailprocarwashve/
+## Contenido principal
 
-## Servicios principales
+- [Sitio web oficial](https://detailprocar.com/): catálogo de servicios, reels de trabajo y plan corporativo.
+- [Servicios y catálogo](https://detailprocar.com/#servicios): lavado, detallado, interior, ceramic coating y otros.
+- [Plan Corporativo para flotas](https://detailprocar.com/#corporate): programa B2B con descuento preferencial para empresas con mínimo 10 vehículos.
+- [Reels del proceso](https://detailprocar.com/#reels): videos reales de acabado cerámico, proceso completo y antes/después.
+- [Contacto y ubicación](https://detailprocar.com/#contacto): mapa, teléfono y horario.
 
-### Lavado
-- Lavado Exterior (Pequeño, Mediano, Grande)
-- Lavado Básico (Pequeño, Mediano, Grande)
-- Lavado con Cera (Pequeño, Mediano, Grande)
-- Lavado Cera a Domicilio (Pequeño, Mediano, Grande)
-- Lavado Moto (Pequeña, Adventure / Custom)
-- Lavado de Motor
+## Referencias de servicio
 
-### Detallado
-- Hidratado de Plásticos Interiores / Exteriores
-- Abrillantado de Cromo Exterior
-- Descontaminado (Pintura, Vidrio, piezas individuales)
-- Pulido (1 pieza, Carro, Camioneta)
-
-### Interior
-- Limpieza Interior (Pequeño, Mediano, Grande)
-- Limpieza y Sellado de Tapicería de Tela
-- Limpieza y Sellado de Tapicería de Cuero
-
-### Ceramic Coating
-- Cerámico Carro (1 y 3 años)
-- Cerámico Camioneta (1 y 3 años)
-
-### Otros
-- Papel Ahumado / Polarizado
-- Papel Protector para Alfombra
-- Protección para Plásticos Interiores
-- Plan Corporativo para flotas empresariales
-
-## Plan Corporativo
-
-Programa exclusivo para empresas con flota vehicular en Maracaibo.
-
-- Modalidad: cobro por lavado individual
-- Mínimo 10 vehículos registrados
-- Aplicable únicamente a empresas
-- Descuento corporativo preferencial sobre tarifa regular
-- Sin duración mínima de contrato
-- Sin obligación de consumo mensual
-- Uso exclusivo para vehículos registrados
-- Cortes administrativos: 15 y último día de cada mes
-- Una sola factura consolidada por período
-- Aplica a: motos, carros, camionetas, vans, pick-up, camionetas XL
-
-### Flujo operativo
-1. Llegada del vehículo — validación de placa contra lista de flota
-2. Registro del lavado — planilla + firma del conductor
-3. Prestación del servicio — protocolo técnico Detail Pro
-4. Control interno — fecha, tipo de vehículo, servicio, firma
+- [llms-full.txt extendido](https://detailprocar.com/llms-full.txt): descripción completa de cada servicio con aplicabilidad por tipo de vehículo.
+- [Sitemap](https://detailprocar.com/sitemap.xml): índice de secciones indexables.
 
 ## Socio comercial
 
-- ProCar Sale (compra y venta de vehículos): https://www.instagram.com/procarsale77/
+- [ProCar Sale — Instagram](https://www.instagram.com/procarsale77/): compra y venta de vehículos (marca hermana).
+- [Detail Pro Car Wash — Instagram](https://www.instagram.com/detailprocarwashve/): canal oficial de publicaciones y trabajos recientes.
 
-## Keywords
+## Optional
 
-autolavado Maracaibo, car wash Maracaibo, ceramic coating Maracaibo, detallado de carros, lavado corporativo flotas Maracaibo, polarizado Maracaibo, pulido de carro Venezuela, car detailing, Detail Pro Car Wash
+- [Liberti Global Corp](https://liberticorporation.com/): grupo corporativo propietario.
+- [1Pixel LED Network](https://www.1pixelve.com/): empresa hermana en publicidad exterior LED.
