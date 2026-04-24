@@ -3108,18 +3108,12 @@
     </a>
 
     <script>
-      // HERO VIDEO — desktop vs mobile swap (desktop placeholder until user provides horizontal video)
+      // HERO VIDEO — desktop vs mobile swap
       (function () {
         var vid = document.getElementById("hero-vid");
         if (!vid) return;
         var isMobile = window.innerWidth <= 768;
-        // Use Ceramic Coating clip on mobile; skip hero video on desktop until horizontal asset arrives
-        if (isMobile) {
-          vid.src = "hero-mobile.mp4";
-        } else {
-          // Desktop: hide empty video; radial gradients + grid carry the hero
-          vid.style.display = "none";
-        }
+        vid.src = isMobile ? "hero-mobile.mp4" : "hero-desktop.mp4";
       })();
 
       // NAV scroll + mobile toggle
